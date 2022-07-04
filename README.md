@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [JavaScript](https://github.com/gorguluarslan/JavaScript.Calismalari/blob/main/MathMethods/JavaScript.js)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript & React**
 
-- 👯 I’m looking to collaborate on **JavaScript**
+- 👯 I’m looking to collaborate on **JavaScript & React**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **JavaScript & React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gorguluarslan](https://github.com/gorguluarslan)
 
