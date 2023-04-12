@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript & React  & Vue**
 
-- 🤝 I’m looking for help with **JavaScript & Reac  & Vuet**
+- 🤝 I’m looking for help with **JavaScript & React  & Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gorguluarslan](https://github.com/gorguluarslan)
 
