@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [JavaScript](https://github.com/gorguluarslan/JavaScript.Calismalari/blob/main/MathMethods/JavaScript.js)
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **JavaScript & React  & Vue**
 
-- 👯 I’m looking to collaborate on **JavaScript & React**
+- 👯 I’m looking to collaborate on **JavaScript & React  & Vue**
 
-- 🤝 I’m looking for help with **JavaScript & React**
+- 🤝 I’m looking for help with **JavaScript & Reac  & Vuet**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gorguluarslan](https://github.com/gorguluarslan)
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript, React**
 
 - 📫 How to reach me **gorguluarslanhilal@gmail.com**
 
